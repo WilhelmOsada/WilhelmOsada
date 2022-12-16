@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm Wilhelm 👋</h3>
 
-I'm a 22 year old student from Łódź.
+<p1 align="center">I'm a 22 year old student from Łódź.</p1>
 
 Along with programming I love making music and visual design.
 
