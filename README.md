@@ -1,4 +1,4 @@
-Hi there 👋
+<h3>Hi there 👋</h3>
 
 I'm a 22 year old student from Łódź.
 
