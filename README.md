@@ -1,4 +1,4 @@
-<h3>Hi there 👋</h3>
+<h3 style="text-align: center;">Hi there, I'm Wilhelm 👋</h3>
 
 I'm a 22 year old student from Łódź.
 
